@@ -26,12 +26,11 @@
     {
       "triggers": [
         "t oby",
-        "to by",
         "tob y",
         "t*by",
         "t o b y",
         "t o by",
-        "to by",
+        "",
         "to*y",
         "tob*",
         "*oby",
