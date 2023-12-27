@@ -356,7 +356,7 @@
         "I do what I can.",
         "You owe me one, {{USERTAG}}.",
         "My pleasure, {{USERTAG}}",
-        "de rien"
+        "It's what I do."
       ],
       "mentionAuthor": true,
       "requiresBotName": true
@@ -392,7 +392,14 @@
         "Only sometimes",
         "I know you are but what am I?",
         "That _feels_ rude.",
-        "I don't really think that's true."
+        "I don't really think that's true.",
+        "That could be true!",
+        "I cannot comment at this time.",
+        "What? Me? I wasn't listening.",
+        "If you say so!",
+        "I was just telling myself the same thing yesterday.",
+        "Yeah, that sounds about right.",
+        "That's certainly the case!"
       ],
       "requiresBotName": true
     },
