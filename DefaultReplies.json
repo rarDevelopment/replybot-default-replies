@@ -102,6 +102,19 @@
     },
     {
       "triggers": [
+        "how old",
+        "your birthday",
+        "how many years old are you"
+      ],
+      "replies": [
+        "I was born on July 27, 2020."
+      ],
+      "mentionAuthor": true,
+      "reactions": [],
+      "requiresBotName": true
+    },
+    {
+      "triggers": [
         "love you",
         "love u",
         "love {{BOTNAME}}",
